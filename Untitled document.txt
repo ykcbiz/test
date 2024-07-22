@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NJ Home Improvement LLC</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header, footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .main-content {
+            padding: 20px;
+            background: white;
+            margin: 20px 0;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            padding: 10px 0;
+        }
+        .contact-info {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>NJ Home Improvement LLC</h1>
+        <p>Transform Your Home with Unmatched Quality and Craftsmanship</p>
+        <p>From Kitchens to Bathrooms and Beyond - Experience the Difference with NJ Home Improvement LLC!</p>
+        <p><strong>Get Your Free Quote Today!</strong></p>
+    </header>
+
+
+    <div class="container">
+        <div class="main-content">
+            <h2>About Us</h2>
+            <p>About NJ Home Improvement LLC</p>
+            <p>Founded on April 12, 2022, NJ Home Improvement LLC is dedicated to being the home improvement company every homeowner desires. Our commitment to superior quality, timely project completion, and an understanding of customer needs sets us apart. By offering a wide range of services under one roof, we help our clients save money and reduce stress, eliminating the need to hire multiple contractors for simple projects.</p>
+        </div>
+
+
+        <div class="main-content">
+            <h2>Services</h2>
+            <ul>
+                <li><strong>Kitchen Remodeling:</strong> Complete kitchen renovation including cabinets, countertops, backsplash, tile installation, and painting.</li>
+                <li><strong>Bathroom Remodeling:</strong> Full bathroom renovation with drywall services, new cabinets, countertops, glass installation, and painting.</li>
+                <li><strong>Venetian Plaster:</strong> High-quality, natural, and polished wall finishes perfect for sophisticated settings.</li>
+                <li><strong>Epoxy Resin Flooring:</strong> Durable, low-maintenance flooring solution suitable for various surfaces and compatible with underfloor heating.</li>
+                <li><strong>Finish Carpentry:</strong> Fine carpentry services including wood panels, stairs remodeling, accent walls, doors and trims installation, crown molding, and baseboards.</li>
+                <li><strong>Drywall and Texture Repair:</strong> High-quality drywall finishing and texturing services.</li>
+                <li><strong>Painting:</strong> High-end painting services offering smooth finishes and wood stain.</li>
+            </ul>
+        </div>
+
+
+        <div class="main-content">
+            <h2>Our Process</h2>
+            <ul>
+                <li><strong>Discovery:</strong> Initial consultation to understand your needs and project goals.</li>
+                <li><strong>Planning:</strong> Detailed project roadmap and timeline creation.</li>
+                <li><strong>Execution:</strong> Efficient and precise implementation of the project plan with regular updates.</li>
+                <li><strong>Launch:</strong> Final testing, quality assurance, and project completion.</li>
+                <li><strong>Support:</strong> Ongoing support and maintenance to ensure lasting quality.</li>
+            </ul>
+        </div>
+
+
+        <div class="main-content">
+            <h2>FAQ</h2>
+            <ul>
+                <li><strong>Q:</strong> What materials are the cabinets you work with?<br><strong>A:</strong> We have a large inventory allowing us to work with all kinds of cabinets.</li>
+                <li><strong>Q:</strong> What products do you offer for countertops?<br><strong>A:</strong> We work with a variety of distributors, giving us the ability to offer a wide range of countertops available in the market.</li>
+                <li><strong>Q:</strong> Do you sell tiles as well?<br><strong>A:</strong> We only offer tile installation but can recommend trusted stores for purchasing tiles.</li>
+                <li><strong>Q:</strong> What paint products do you use or recommend?<br><strong>A:</strong> We use Sherwin-Williams and Benjamin Moore, but can recommend specific products based on project needs. However, we are flexible and can use the paint of your choice.</li>
+            </ul>
+        </div>
+
+
+        <div class="main-content">
+            <h2>Niche Proposition Value</h2>
+            <p>Why Choose NJ Home Improvement LLC?</p>
+            <p>At NJ Home Improvement LLC, we offer a unique blend of quality and fair pricing, ensuring that our services are accessible to all, from homeowners on a budget to multi-billionaires seeking luxury. Our extensive experience in kitchen and bathroom renovations, painting, drywall repair, finish carpentry, flooring installation, and specialized services like Venetian plaster and epoxy ensures that every project is completed to the highest standards. We prioritize customer satisfaction, delivering superior craftsmanship and a seamless experience from start to finish. Choose us for your home improvement needs and experience excellence like never before.</p>
+        </div>
+
+
+        <div class="main-content contact-info">
+            <h2>Contact Us</h2>
+            <p>Address: 45 S Wickham Rd, Melbourne, FL 32904</p>
+            <p>Phone: 321-367-6771</p>
+            <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+            <p><a href="https://g.page/r/CVfvzO8YrvtNEBE/review" target="_blank">Leave a Google Review</a></p>
+        </div>
+    </div>
+
+
+    <footer>
+        <p>&copy; 2024 NJ Home Improvement LLC. All rights reserved.</p>
+    </footer>
+</body>
+</html>
